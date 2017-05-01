@@ -1,0 +1,36 @@
+
+<TEI>
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listBibl>
+	           <msDesc>
+	              <msIdentifier>
+                  <settlement>where is it</settlement>
+	                 <repository>repository name</repository>
+	                 <idno>identifier</idno>
+               </msIdentifier>
+	              <physDesc>
+	                 <objectDesc>
+	                    <supportDesc>
+	                       <collation><formula>(<quire n="1" leaves="4" startFol="48">IV-2 [+ 2 Einzelbll.<hi rend="su"><leaf type="added">1</leaf>.2</hi>])<hi>48</hi></quire> + <quire from="2" to="6" leaves="4" startFol="10">5 IV<hi>10.18.26.34.42</hi></quire> + Einzelbl.<hi>49</hi> + (IV[+I<hi>77</hi>])<hi>82</hi> + (IV-1)<hi>56</hi> + 2 IV<hi>64.72</hi> + 3 IV<hi>90.98.106</hi> + III<hi>112</hi></formula></collation>
+	                    </supportDesc>
+	                 </objectDesc>
+	              </physDesc>
+	           </msDesc>
+         </listBibl>
+      </body>
+  </text>
+</TEI>
