@@ -206,11 +206,11 @@ with open (filename, 'w') as f:
     </head>
     <body>
     <p>Collation of {}</p>
-        <object data="test.svg" type="image/svg+xml" height="{}" width="100%"/>
+        <object data="{}.svg" type="image/svg+xml" height="{}" width="100%"/>
             
         
     </body>
-</html>'''.format(ms_name, ms_name, y), file=f)
+</html>'''.format(ms_name, ms_name, ms_name, y), file=f)
 
 
 
